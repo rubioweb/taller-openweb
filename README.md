@@ -1,7 +1,5 @@
 # taller-openweb
 repositorio de practica para alojar  un proyecto
-# taller-openweb
-repositorio de practica para alojar  un proyecto
 ## Asunciones y prerequisitos
 
 Para poder seguir este taller, deberás tener un conocimiento básico de informática y que estés acostumbrado/a a ejecutar comandos en una terminal. No es necesario que sepas programar. Para poder iniciarte en el mundo de *Git* y de GitHub tan solo necesitarás cumplir los siguientes requisitos:
